@@ -1,0 +1,3 @@
+requests
+slacker
+python-telegram-bot
